@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Marzan_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Marzan_Java_jar</output-path>
+    <root id="archive" name="Marzan_Java.jar">
+      <element id="module-output" name="Marzan_Java" />
+    </root>
+  </artifact>
+</component>
